@@ -1,6 +1,1 @@
-# TuongDataAnalyst
-This Repository will hold all of the Portfolio Projects I create.
-
-Please feel free to take these and run with them. 
-
-Please email me at: dinhnhattuong@gmail.com if you have any questions. 
+https://app.powerbi.com/view?r=eyJrIjoiYzE1YTdjMTYtODc3NC00MGQ3LWI2OTQtMDlkZDQyMmI1Zjk4IiwidCI6IjZlMjE0MDNiLTgxZWYtNGRkOC04NjFkLWMyZDJmNDA4YmQ3NSJ9
